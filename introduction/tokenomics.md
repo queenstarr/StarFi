@@ -27,18 +27,16 @@ $star tokens are tradable on the ICP blockchain, providing more flexibility and 
 | $STAR TOKEN                                      | ![](<../.gitbook/assets/Starfi logo.png>) |                    |
 | TOTAL                                            | 100%                                      | 1,000,000,000      |
 
-<mark style="color:red;">**Descriptions:**</mark>
+<mark style="color:yellow;">**1. Team Allocation (20%):**</mark> Reserved for the core team members, developers, and contributors who drive the project forward.
 
-1\. Team Allocation (20%): Reserved for the core team members, developers, and contributors who drive the project forward.
+<mark style="color:yellow;">**2. Community Airdrop (10%):**</mark> Distributed to the broader community to encourage participation and engagement.
 
-2\. Community Airdrop (10%): Distributed to the broader community to encourage participation and engagement.
+<mark style="color:yellow;">**3. In-App Rewards (10%):**</mark> Used to incentivize content creators within the StarFi ecosystem.
 
-3\. In-App Rewards (10%): Used to incentivize content creators within the StarFi ecosystem.
+<mark style="color:yellow;">**4. Advisory and Partnerships (5%):**</mark> Allocated for advisors, strategic partnerships, and external support.
 
-4\. Advisory and Partnerships (5%): Allocated for advisors, strategic partnerships, and external support.
+<mark style="color:yellow;">**5. Ecosystem Development (10%):**</mark> Funds marketing, community growth, and technical enhancements.
 
-5\. Ecosystem Development (10%): Funds marketing, community growth, and technical enhancements.
+<mark style="color:yellow;">**6. Liquidity Pool (5%):**</mark> Ensures liquidity on decentralized exchanges (DEXs).
 
-6\. Liquidity Pool (5%): Ensures liquidity on decentralized exchanges (DEXs).
-
-7\. Treasury and Future Initiatives (10%): Reserved for future projects, partnerships, or unforeseen opportunities.
+<mark style="color:yellow;">**7. Treasury and Future Initiatives (10%):**</mark> Reserved for future projects, partnerships, or unforeseen opportunities.
