@@ -7,6 +7,7 @@
   * [🦄 Unique Features](introduction/unique-features.md)
   * [🎨 How to Mint](introduction/how-to-mint.md)
   * [🤝 How to Trade](introduction/how-to-trade.md)
+  * [🏦 How to Deposit and Withdraw](introduction/how-to-deposit-and-withdraw.md)
   * [🪙 Tokenomics](introduction/tokenomics.md)
   * [🗺️ Roadmap \[STC\]](introduction/roadmap-stc.md)
   * [🏁 Conclusion](introduction/conclusion.md)
