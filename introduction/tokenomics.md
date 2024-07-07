@@ -27,6 +27,8 @@ $star tokens are tradable on the ICP blockchain, providing more flexibility and 
 | $STAR TOKEN                                      | ![](<../.gitbook/assets/Starfi logo.png>) |                    |
 | TOTAL                                            | 100%                                      | 1,000,000,000      |
 
+<figure><img src="../.gitbook/assets/Starfi piechart.png" alt="" width="563"><figcaption><p>A proposed $star koken distribution chart</p></figcaption></figure>
+
 <mark style="color:yellow;">**1. Team Allocation (20%):**</mark> Reserved for the core team members, developers, and contributors who drive the project forward.
 
 <mark style="color:yellow;">**2. Community Airdrop (10%):**</mark> Distributed to the broader community to encourage participation and engagement.
