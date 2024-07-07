@@ -1,8 +1,6 @@
 # 🗺️ Roadmap \[STC]
 
-<figure><img src="../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
-
-***
+<figure><img src="../.gitbook/assets/StarFi Roadmap.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**Q4 2024**</mark>
 
@@ -34,3 +32,5 @@
 * Expansion
   * Partner with influencers and creators to drive adoption
   * Launch mobile applications for broader access
+
+<figure><img src="../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
