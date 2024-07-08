@@ -2,8 +2,8 @@
 
 <figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">**Token Name**</mark><mark style="color:red;">:</mark> Star ($star)
-* <mark style="color:red;">**Utility:**</mark> $star is the essential token for trading digital assets and minting new collectibles within the Starfi platform. Users can acquire $star tokens by purchasing them via Plug wallet or Stoic wallet.&#x20;
+* <mark style="color:yellow;">**Token Name**</mark><mark style="color:yellow;">:</mark> Star ($star)
+* <mark style="color:yellow;">**Utility:**</mark> $star is the essential token for trading digital assets and minting new collectibles within the StarFi platform. Users can acquire $star tokens by purchasing them via Plug wallet or Stoic wallet.&#x20;
 
 {% hint style="info" %}
 Once the wallet is connected, users can deposit their $star tokens into the game to utilize them.&#x20;
