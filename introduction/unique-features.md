@@ -2,7 +2,11 @@
 
 <figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:orange;">**Strictly Decentralized Platform**</mark><mark style="color:orange;">:</mark> StarFi is designed to leverage the ICP blockchain to encourage more users to onboard into the Web3 ecosystem.
+* <mark style="color:orange;">**Decentralized Platform**</mark><mark style="color:orange;">:</mark> StarFi is designed to leverage the ICP blockchain to encourage more users to onboard into the Web3 ecosystem.
+
+***
+
+* <mark style="color:orange;">**NFT Ownership:**</mark> StarFi offers decentralized NFT minting, ensuring users have full ownership of their NFTs from creation. Using the ICP blockchain, users can mint, manage, and transfer their NFTs directly to wallets like Stoic or Plug without platform ownership. This feature guarantees complete user control and interoperability, setting StarFi apart in the digital collectibles space.
 
 ***
 
@@ -26,6 +30,10 @@ STC: Rare card airdrop percentage is set at 5%, and Mythic card airdrop percenta
 
 {% hint style="info" %}
 STC: Lock Rare + Rare set = +0.1% boost. Lock Rare + Mythic = + 0.4% boost. Lock Mythic + Mythic = +0.8% boost.
+{% endhint %}
+
+{% hint style="info" %}
+Users who have Minted, Traded and Locked atleast five (5) different artist cards automatically qualify for $star tokens airdrop.
 {% endhint %}
 
 ***
