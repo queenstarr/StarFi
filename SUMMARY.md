@@ -6,6 +6,7 @@
   * [🎯 Goals & Objectives](introduction/goals-and-objectives.md)
   * [🦄 Unique Features](introduction/unique-features.md)
   * [👣 User journey experience](introduction/user-journey-experience.md)
+  * [🪪 User NFT ownership](introduction/user-nft-ownership.md)
   * [🎨 How to Mint](introduction/how-to-mint.md)
   * [🔓 How to lock](introduction/how-to-lock.md)
   * [🤝 How to Trade](introduction/how-to-trade.md)
