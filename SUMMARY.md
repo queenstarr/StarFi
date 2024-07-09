@@ -12,6 +12,7 @@
   * [🔓 How to lock](introduction/how-to-lock.md)
   * [🤝 How to Trade](introduction/how-to-trade.md)
   * [🪙 Tokenomics](introduction/tokenomics.md)
+  * [💎 Benefits of StarFi to the ICP Blockchain](introduction/benefits-of-starfi-to-the-icp-blockchain.md)
   * [🗺️ Roadmap \[STC\]](introduction/roadmap-stc.md)
   * [🏁 Conclusion](introduction/conclusion.md)
   * [📧 Contact](introduction/contact.md)

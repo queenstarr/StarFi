@@ -1,6 +1,6 @@
 # 🔍 Problems addressed by StarFi
 
-1.**Simplifying NFT Minting for All Artists**
+1\. **Simplifying NFT Minting for All Artists**
 
 <mark style="color:red;">**Problem:**</mark> Minting an NFT is often seen as complicated, leading many to believe it's only for experts and professionals. This misconception discourages everyday artists and creators from participating, as they think their art might not be suitable or the process is too complex.
 
