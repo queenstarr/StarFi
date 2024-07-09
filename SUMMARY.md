@@ -4,6 +4,7 @@
   * [👁️‍🗨️ Vision](introduction/vision.md)
   * [📜 Core Principles](introduction/core-principles.md)
   * [🎯 Goals & Objectives](introduction/goals-and-objectives.md)
+  * [🔍 Problems addressed by StarFi](introduction/problems-addressed-by-starfi.md)
   * [🦄 Unique Features](introduction/unique-features.md)
   * [👣 User journey experience](introduction/user-journey-experience.md)
   * [🪪 User NFT ownership](introduction/user-nft-ownership.md)
