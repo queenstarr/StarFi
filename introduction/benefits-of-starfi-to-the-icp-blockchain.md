@@ -15,8 +15,8 @@ The following factors collectively contribute to the economic growth and sustain
    * **Benefit**: By utilizing $star tokens tradable on the ICP blockchain, StarFi increases the demand for ICP as users will need ICP to purchase $star tokens.
    * **Impact**: Higher demand for ICP tokens can lead to increased liquidity and potentially higher token value, benefiting holders and the overall ICP ecosystem.
 3. <mark style="color:green;">**Attraction of New Users**</mark>
-   * **Benefit**: StarFi innovative platform attracts new users to the ICP blockchain, including artists, collectors, and tech enthusiasts.
-   * **Impact**: As new users join the ecosystem, they contribute to the network's growth, bringing more activity, investments, and potential collaborations within the ICP community.
+   * **Benefit**: StarFi innovative platform attracts high-quality new users to the ICP blockchain, including digital creators, art enthusiasts, and tech-savvy individuals from the Web3 community.
+   * **Impact**: As talented artists, passionate collectors, and knowledgeable tech enthusiasts join the ecosystem, they contribute to the network’s growth. This influx of quality users brings more activity, investments, and potential collaborations within the ICP community, fostering a vibrant and dynamic environment. Their participation helps drive innovation, increases platform engagement, and strengthens the overall value and appeal of the ICP blockchain.
 4. <mark style="color:green;">**Ecosystem Expansion**</mark>
    * **Benefit**: StarFi success can inspire other projects to build on the ICP blockchain, seeing the benefits and opportunities it provides.
    * **Impact**: A thriving ecosystem with diverse applications enhances the ICP blockchain's reputation, attracting more developers and businesses to the platform, leading to a broader adoption and more robust ecosystem.
