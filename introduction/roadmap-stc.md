@@ -7,9 +7,6 @@
 * Platform Development
   * Finalize platform architecture and design
   * Develop core features for minting and trading
-* Community Building
-  * Launch social media channels
-  * Begin community engagement and marketing campaigns
 
 ***
 
@@ -32,5 +29,7 @@
 * Expansion
   * Partner with influencers and creators to drive adoption
   * Launch mobile applications for broader access
+  * Launch social media channels
+  * Begin community engagement and marketing campaigns
 
 <figure><img src="../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
